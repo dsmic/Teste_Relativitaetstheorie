@@ -130,9 +130,13 @@ Kreisbahn sind beide konstant. Die Amplitude ist proportional zur Exzentrizität
 | `vorlage_aufgabe3.png` | Vorlage zu Aufgabe 3 (zum Ausdrucken) |
 | `abb_gang_vorlauf.png` | Lösungsabbildung: Abstand, Gang und Vorlauf |
 | `abb_gang_vorlauf.py` | erzeugt beide Abbildungen aus den Bahndaten im Repository |
+| `arbeitsblatt.pdf`, `loesung.pdf` | Druckfassungen (Arbeitsblatt mit Schreiblinien) |
+| `pdf_erzeugen.py` | erzeugt die PDFs aus den Markdown-Dateien (braucht `markdown` und Chromium) |
 
-Die Abbildungen neu erzeugen (im Hauptverzeichnis, braucht nur numpy und matplotlib):
+Abbildungen und PDFs neu erzeugen (im Hauptverzeichnis):
 
 ```bash
 python arbeitsblatt/abb_gang_vorlauf.py
+pip install markdown
+python arbeitsblatt/pdf_erzeugen.py
 ```

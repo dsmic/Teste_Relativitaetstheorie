@@ -7,7 +7,7 @@ Messung und Vorhersage der Relativitätstheorie stimmen auf rund 1 % überein:
 
 Gedacht als Material für einen Physik-Grundkurs (Klasse 13, NRW).
 Dazu gibt es ein [Arbeitsblatt für 45 Minuten](arbeitsblatt/arbeitsblatt.md) mit
-[Lösungen](arbeitsblatt/loesung.md).
+[Lösungen](arbeitsblatt/loesung.md), zum Ausdrucken als [PDF](arbeitsblatt/arbeitsblatt.pdf).
 
 ---
 
