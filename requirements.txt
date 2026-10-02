@@ -1,0 +1,4 @@
+# getestet mit Python 3.12
+numpy==2.3.4
+matplotlib==3.10.6
+hatanaka==2.8.1
