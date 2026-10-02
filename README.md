@@ -6,6 +6,8 @@ Messung und Vorhersage der Relativitätstheorie stimmen auf rund 1 % überein:
 **Messung/Theorie k = 1,01** bei einer Amplitude von **396 ns ≈ 119 m**.
 
 Gedacht als Material für einen Physik-Grundkurs (Klasse 13, NRW).
+Dazu gibt es ein [Arbeitsblatt für 45 Minuten](arbeitsblatt/arbeitsblatt.md) mit
+[Lösungen](arbeitsblatt/loesung.md).
 
 ---
 
@@ -222,6 +224,7 @@ Eine Übersicht zeigt `python gnss_relativitaet.py -h`.
 | `gnss_relativitaet.py` | Auswerteskript |
 | `requirements.txt` | benötigte Python-Pakete (getestete Versionen) |
 | `.gitignore` | hält die großen entpackten Dateien aus dem Repository heraus |
+| `arbeitsblatt/` | Arbeitsblatt (45 min) mit Lösungen, Vorlage und Abbildungsskript |
 | `relativitaet_E14_EUSK.png` | Ergebnis E14, Station Euskirchen |
 | `relativitaet_G07.png` | Ergebnis G07, Station Braunschweig |
 | `EUSK00DEU_R_20262630000_01D_30S_MO.crx.gz` | Beobachtungen Euskirchen (EUREF), gepackt |
